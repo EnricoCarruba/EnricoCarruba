@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnricoCarruba
-- 👀 I’m interested in Java, HTML/CSS/Javascript and many other technologies.
-- 🌱 I’m currently learning bootstrap. 
-- 💞️ I’m looking to collaborate on beginners projects.
+- 💻 Professional in: C# + .NET / Java + Spring Boot / HTML/CSS/Javascript + Angular / Swagger aka OpenApi
+- ⚗️ For fun: Raspberry Pi, Linux + Kali 
+
 
 <!---
 EnricoCarruba/EnricoCarruba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
